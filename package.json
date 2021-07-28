@@ -1,0 +1,30 @@
+{
+  "name": "tglanding",
+  "version": "1.0.0",
+  "description": "Landing page of Tech Group",
+  "main": "index.js",
+  "repository": "https://github.com/shaishguni/techgrouplanding.git",
+  "author": "Shaish Guni <gunisguni2007@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^6.2.0",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "file-loader": "^6.2.0",
+    "image-webpack-loader": "^7.0.1",
+    "less": "^4.1.1",
+    "less-loader": "^10.0.1",
+    "loader": "^2.1.1",
+    "node-sass": "^6.0.1",
+    "react": "^17.0.2",
+    "react-hot-loader": "^4.13.0",
+    "sass-loader": "^12.1.0",
+    "scss": "^0.2.4",
+    "style-loader": "^3.2.1",
+    "webpack": "^5.47.0",
+    "webpack-bundle-tracker": "^1.2.0",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
